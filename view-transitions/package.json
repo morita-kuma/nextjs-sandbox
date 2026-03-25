@@ -1,0 +1,14 @@
+{
+  "name": "view-transitions-demo",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.2.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
